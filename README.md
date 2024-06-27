@@ -2,8 +2,8 @@
 
 # Repositorio de prueba para Iseries
 
--Jose
--Betty
--Nestor
+- Jose.
+- Betty.
+- Nestor.
 
 > **Todo entendido**
